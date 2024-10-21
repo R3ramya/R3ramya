@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ramya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=r3ramya&label=Profile%20views&color=0e75b6&style=flat" alt="r3ramya" /> </p>
+- 🌱 I’m currently learning **React, Vue.js, Redux, Azure**
+
+- 📫 How to reach me **r33ramya@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -15,5 +17,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=r3ramya&show_icons=true&locale=en&layout=compact" alt="r3ramya" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=r3ramya&show_icons=true&locale=en" alt="r3ramya" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=r3ramya&" alt="r3ramya" /></p>
